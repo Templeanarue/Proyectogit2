@@ -8,7 +8,11 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.ext.nunit": {
+<<<<<<< HEAD
       "version": "1.0.5",
+=======
+      "version": "1.0.6",
+>>>>>>> 50ff0462608968f3f474a899e7a94f70544287fe
       "depth": 1,
       "source": "registry",
       "dependencies": {},
@@ -31,11 +35,19 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
+<<<<<<< HEAD
       "version": "1.1.19",
       "depth": 0,
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.5",
+=======
+      "version": "1.1.20",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.ext.nunit": "1.0.6",
+>>>>>>> 50ff0462608968f3f474a899e7a94f70544287fe
         "com.unity.modules.imgui": "1.0.0",
         "com.unity.modules.jsonserialize": "1.0.0"
       },
